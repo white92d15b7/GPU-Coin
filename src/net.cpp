@@ -1131,9 +1131,9 @@ void MapPort()
 
 
 static const char *strDNSSeed[][2] = {
-    {"GPU Hosted", "node1.gpucoinmarket.com"},
-    {"GPU Hosted", "node2.gpucoinmarket.com"},
-    {"GPU Hosted", "node2.gpucoinmarket.com"},
+    {"GPU Hosted", "node1.gpucoin.market"},
+    {"GPU Hosted", "node2.gpucoin.market"},
+    {"Cryptochat.net", "node3.gpucoin.market"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
