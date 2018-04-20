@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gpu</source>
-        <translation>O Gpue</translation>
+        <source>About NulleX</source>
+        <translation>O NulleXe</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gpu&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;Gpuu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;NulleX&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;NulleXu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Gpu developers</source>
+Copyright © 2014 The NulleX developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Gpu developers</translation>
+Copyright © 2014 The NulleX developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Gpu addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Gpu adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your NulleX addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše NulleX adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gpu address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Gpu adresu</translation>
+        <source>Sign a message to prove you own a NulleX address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto NulleX adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Gpu address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Gpu adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified NulleX address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou NulleX adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>Gpu will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Gpu sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>NulleX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>NulleX sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gpu</source>
-        <translation>Zobraziť informácie o Gpu</translation>
+        <source>Show information about NulleX</source>
+        <translation>Zobraziť informácie o NulleX</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Gpu address</source>
-        <translation>Poslať mince na Gpu adresu</translation>
+        <source>Send coins to a NulleX address</source>
+        <translation>Poslať mince na NulleX adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Gpu</source>
-        <translation>Upraviť možnosti konfigurácie pre Gpu</translation>
+        <source>Modify configuration options for NulleX</source>
+        <translation>Upraviť možnosti konfigurácie pre NulleX</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>Gpu</source>
-        <translation>Gpu</translation>
+        <source>NulleX</source>
+        <translation>NulleX</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Gpu</source>
-        <translation>&amp;O Gpu</translation>
+        <source>&amp;About NulleX</source>
+        <translation>&amp;O NulleX</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Gpu client</source>
-        <translation>Gpu klient</translation>
+        <source>NulleX client</source>
+        <translation>NulleX klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Gpu network</source>
-        <translation><numerusform>%n aktívne spojenie s Gpu sieťov</numerusform><numerusform>%n aktívnych spojení s Gpu sieťov</numerusform><numerusform>%n aktívnych spojení s Gpu sieťou</numerusform></translation>
+        <source>%n active connection(s) to NulleX network</source>
+        <translation><numerusform>%n aktívne spojenie s NulleX sieťov</numerusform><numerusform>%n aktívnych spojení s NulleX sieťov</numerusform><numerusform>%n aktívnych spojení s NulleX sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gpu address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Gpu adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid NulleX address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou NulleX adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Gpu can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Gpu už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. NulleX can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. NulleX už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gpu address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Gpu adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid NulleX address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou NulleX adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Gpu-Qt</source>
-        <translation>Gpu-Qt</translation>
+        <source>NulleX-Qt</source>
+        <translation>NulleX-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gpu after logging in to the system.</source>
-        <translation>Automaticky spustiť Gpu po prihlásení sa do systému.</translation>
+        <source>Automatically start NulleX after logging in to the system.</source>
+        <translation>Automaticky spustiť NulleX po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gpu on system login</source>
-        <translation>&amp;Spustiť Gpu pri prihlásení do systému</translation>
+        <source>&amp;Start NulleX on system login</source>
+        <translation>&amp;Spustiť NulleX pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gpu client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Gpu na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the NulleX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta NulleX na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gpu network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Gpu cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the NulleX network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti NulleX cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gpu.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Gpu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting NulleX.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní NulleX.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gpu addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť Gpu adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show NulleX addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť NulleX adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gpu.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Gpu.</translation>
+        <source>This setting will take effect after restarting NulleX.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní NulleX.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gpu network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Gpu po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the NulleX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou NulleX po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gpu-Qt help message to get a list with possible Gpu command-line options.</source>
-        <translation>Zobraziť Gpu-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Gpu.</translation>
+        <source>Show the NulleX-Qt help message to get a list with possible NulleX command-line options.</source>
+        <translation>Zobraziť NulleX-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku NulleX.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Gpu - Debug window</source>
-        <translation>Gpu - Ladiace okno</translation>
+        <source>NulleX - Debug window</source>
+        <translation>NulleX - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gpu Core</source>
-        <translation>Jadro Gpu</translation>
+        <source>NulleX Core</source>
+        <translation>Jadro NulleX</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gpu debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Gpu súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the NulleX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte NulleX súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Gpu RPC console.</source>
-        <translation>Vitajte v konzole Gpu RPC.</translation>
+        <source>Welcome to the NulleX RPC console.</source>
+        <translation>Vitajte v konzole NulleX RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Gpu adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte NulleX adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Gpu address</source>
-        <translation>UPOZORNENIE: Neplatná Gpu adresa</translation>
+        <source>WARNING: Invalid NulleX address</source>
+        <translation>UPOZORNENIE: Neplatná NulleX adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Gpu adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte NulleX adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gpu address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Gpu adresu</translation>
+        <source>Sign the message to prove you own this NulleX address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto NulleX adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gpu address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Gpu adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified NulleX address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou NulleX adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Gpu adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte NulleX adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gpu signature</source>
-        <translation>Zadajte Gpu podpis</translation>
+        <source>Enter NulleX signature</source>
+        <translation>Zadajte NulleX podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Gpu version</source>
-        <translation>Gpu verzia</translation>
+        <source>NulleX version</source>
+        <translation>NulleX verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gpud</source>
-        <translation>Pošli príkaz na -server alebo gpud</translation>
+        <source>Send command to -server or NulleXd</source>
+        <translation>Pošli príkaz na -server alebo NulleXd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gpu.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: gpu.conf)</translation>
+        <source>Specify configuration file (default: NulleX.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: NulleX.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gpud.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: gpud.pid)</translation>
+        <source>Specify pid file (default: NulleXd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: NulleXd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gpu will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Gpu nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NulleX will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny NulleX nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gpurpc
+rpcuser=Nullexrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;NulleX Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=gpurpc
+rpcuser=Nullexrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;NulleX Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com</
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Gpu is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. Gpu už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  NulleX is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. NulleX už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Gpu</source>
-        <translation>Gpu</translation>
+        <source>NulleX</source>
+        <translation>NulleX</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com</
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gpu</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Gpu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of NulleX</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu NulleX</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Gpu to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Gpu k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart NulleX to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte NulleX k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com</
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Gpu is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Gpu je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. NulleX is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. NulleX je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

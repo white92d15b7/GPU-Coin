@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gpu</source>
-        <translation>Vad du behöver veta om Gpu</translation>
+        <source>About NulleX</source>
+        <translation>Vad du behöver veta om NulleX</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gpu&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Gpu&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;NulleX&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;NulleX&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Gpu developers</source>
+Copyright © 2014 The NulleX developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Gpu developers</translation>
+Copyright © 2014 The NulleX developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Gpu addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Gpu adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your NulleX addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina NulleX adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gpu address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Gpu adressen</translation>
+        <source>Sign a message to prove you own a NulleX address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger NulleX adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Gpu address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Gpu adress</translation>
+        <source>Verify a message to ensure it was signed with a specified NulleX address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik NulleX adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>Gpu will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Gpu plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>NulleX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>NulleX plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gpu</source>
-        <translation>Visa information om Gpu</translation>
+        <source>Show information about NulleX</source>
+        <translation>Visa information om NulleX</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Gpu address</source>
-        <translation>Skicka coins till en Gpu adress</translation>
+        <source>Send coins to a NulleX address</source>
+        <translation>Skicka coins till en NulleX adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Gpu</source>
-        <translation>Modifiera konfigurations-alternativ för Gpu</translation>
+        <source>Modify configuration options for NulleX</source>
+        <translation>Modifiera konfigurations-alternativ för NulleX</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>Gpu</source>
-        <translation>Gpu</translation>
+        <source>NulleX</source>
+        <translation>NulleX</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Gpu</source>
-        <translation>&amp;Om Gpu</translation>
+        <source>&amp;About NulleX</source>
+        <translation>&amp;Om NulleX</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Gpu client</source>
-        <translation>Gpu klient</translation>
+        <source>NulleX client</source>
+        <translation>NulleX klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Gpu network</source>
-        <translation><numerusform>%n aktiv anslutning till Gpu nätverket</numerusform><numerusform>%n aktiva anslutning till Gpu nätverket</numerusform></translation>
+        <source>%n active connection(s) to NulleX network</source>
+        <translation><numerusform>%n aktiv anslutning till NulleX nätverket</numerusform><numerusform>%n aktiva anslutning till NulleX nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gpu address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Gpu adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid NulleX address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig NulleX adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Gpu can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. Gpu kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. NulleX can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. NulleX kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna Gpu-adress</translation>
+        <translation>Namnet som kopplats till denna NulleX-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1054,8 +1054,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gpu address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Gpu adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid NulleX address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig NulleX adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Gpu-Qt</source>
-        <translation>Gpu-Qt</translation>
+        <source>NulleX-Qt</source>
+        <translation>NulleX-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gpu after logging in to the system.</source>
-        <translation>Starta Gpu automatiskt vid inloggning.</translation>
+        <source>Automatically start NulleX after logging in to the system.</source>
+        <translation>Starta NulleX automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gpu on system login</source>
-        <translation>&amp;Starta Gpu vid inloggning</translation>
+        <source>&amp;Start NulleX on system login</source>
+        <translation>&amp;Starta NulleX vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gpu client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Gpu klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the NulleX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt NulleX klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gpu network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Gpu nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the NulleX network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till NulleX nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gpu.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Gpu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting NulleX.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av NulleX.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gpu addresses in the transaction list or not.</source>
-        <translation>Om Gpu adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show NulleX addresses in the transaction list or not.</source>
+        <translation>Om NulleX adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gpu.</source>
-        <translation>Inställningen börjar gälla efter omstart av Gpu.</translation>
+        <source>This setting will take effect after restarting NulleX.</source>
+        <translation>Inställningen börjar gälla efter omstart av NulleX.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gpu network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Gpu nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the NulleX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med NulleX nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gpu-Qt help message to get a list with possible Gpu command-line options.</source>
-        <translation>Visa Gpu-Qt hjälp meddelandet för att få en lista över möjliga Gpu kommandoradsalternativ.</translation>
+        <source>Show the NulleX-Qt help message to get a list with possible NulleX command-line options.</source>
+        <translation>Visa NulleX-Qt hjälp meddelandet för att få en lista över möjliga NulleX kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Gpu - Debug window</source>
-        <translation>Gpu - Felsökningsfönster</translation>
+        <source>NulleX - Debug window</source>
+        <translation>NulleX - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gpu Core</source>
-        <translation>Gpu Core</translation>
+        <source>NulleX Core</source>
+        <translation>NulleX Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gpu debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Gpu felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the NulleX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna NulleX felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Gpu RPC console.</source>
-        <translation>Välkommen till Gpu RPC konsoll.</translation>
+        <source>Welcome to the NulleX RPC console.</source>
+        <translation>Välkommen till NulleX RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Gpu adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en NulleX adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Gpu address</source>
-        <translation>VARNING: Ogiltig Gpu adress</translation>
+        <source>WARNING: Invalid NulleX address</source>
+        <translation>VARNING: Ogiltig NulleX adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Gpu adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en NulleX adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gpu address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Gpu adressen</translation>
+        <source>Sign the message to prove you own this NulleX address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna NulleX adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gpu address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Gpu adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified NulleX address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna NulleX adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en Gpu adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en NulleX adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gpu signature</source>
-        <translation>Fyll i Gpu signatur</translation>
+        <source>Enter NulleX signature</source>
+        <translation>Fyll i NulleX signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Gpu version</source>
-        <translation>Gpu version</translation>
+        <source>NulleX version</source>
+        <translation>NulleX version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gpud</source>
-        <translation>Skicka kommando till -server eller gpud</translation>
+        <source>Send command to -server or NulleXd</source>
+        <translation>Skicka kommando till -server eller NulleXd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gpu.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: gpu.conf)</translation>
+        <source>Specify configuration file (default: NulleX.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: NulleX.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gpud.pid)</source>
-        <translation>Ange pid filen (standard gpud.pid)</translation>
+        <source>Specify pid file (default: NulleXd.pid)</source>
+        <translation>Ange pid filen (standard NulleXd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gpu will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. Gpu kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NulleX will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. NulleX kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gpurpc
+rpcuser=Nullexrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;NulleX Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=gpurpc
+rpcuser=Nullexrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Gpu Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;NulleX Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Gpu Varning&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Gpu is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. Gpu är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  NulleX is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. NulleX är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Gpu</source>
-        <translation>Gpu</translation>
+        <source>NulleX</source>
+        <translation>NulleX</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Gpu Varning&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gpu</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av Gpu krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of NulleX</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av NulleX krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Gpu to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om Gpu för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart NulleX to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om NulleX för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Gpu Varning&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Gpu is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Gpu är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. NulleX is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. NulleX är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

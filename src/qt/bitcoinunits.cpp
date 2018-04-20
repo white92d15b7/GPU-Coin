@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("GPU");
-    case mBTC: return QString("mGPU");
-    case uBTC: return QString::fromUtf8("μGPU");
+    case BTC: return QString("NLX");
+    case mBTC: return QString("mNLX");
+    case uBTC: return QString::fromUtf8("μNLX");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Gpus");
-    case mBTC: return QString("Milli-Gpus (1 / 1,000)");
-    case uBTC: return QString("Micro-Gpus (1 / 1,000,000)");
+    case BTC: return QString("NulleXs");
+    case mBTC: return QString("Milli-NulleXs (1 / 1,000)");
+    case uBTC: return QString("Micro-NulleXs (1 / 1,000,000)");
     default: return QString("???");
     }
 }

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Gpu</source>
-        <translation>Au sujet de Gpu</translation>
+        <source>About NulleX</source>
+        <translation>Au sujet de NulleX</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Gpu&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;Gpu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;NulleX&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;NulleX&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Gpu developers</source>
+Copyright © 2014 The NulleX developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs Gpu</translation>
+Copyright © 2014 Les développeurs NulleX</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Gpu addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your NulleX addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Gpu address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse Gpu</translation>
+        <source>Sign a message to prove you own a NulleX address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse NulleX</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Gpu address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Gpu spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified NulleX address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse NulleX spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos Gpus</translation>
+        <translation>ATTENTION : Si vous cryptez votre portefeuille et perdez votre passphrase, vous ne pourrez plus accéder à vos NulleXs</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Gpu will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application Gpu va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>NulleX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application NulleX va désormais se terminer afin de finaliser le processus de cryptage. Merci de noter que le cryptage du portefeuille ne garantit pas de se prémunir du vol via l&apos;utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Gpu</source>
-        <translation>Afficher des informations au sujet du Gpu</translation>
+        <source>Show information about NulleX</source>
+        <translation>Afficher des informations au sujet du NulleX</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Gpu address</source>
-        <translation>Envoyer des monnaies vers une adresse Gpu</translation>
+        <source>Send coins to a NulleX address</source>
+        <translation>Envoyer des monnaies vers une adresse NulleX</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Gpu</source>
-        <translation>Modification des options de configuration de Gpu</translation>
+        <source>Modify configuration options for NulleX</source>
+        <translation>Modification des options de configuration de NulleX</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Gpu</source>
-        <translation>Gpu</translation>
+        <source>NulleX</source>
+        <translation>NulleX</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Gpu</source>
-        <translation>A propos de Gpu</translation>
+        <source>&amp;About NulleX</source>
+        <translation>A propos de NulleX</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Gpu client</source>
-        <translation>Client Gpu</translation>
+        <source>NulleX client</source>
+        <translation>Client NulleX</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Gpu network</source>
-        <translation><numerusform>%n connexion active au réseau Gpu</numerusform><numerusform>%n connexions actives au réseau Gpu</numerusform></translation>
+        <source>%n active connection(s) to NulleX network</source>
+        <translation><numerusform>%n connexion active au réseau NulleX</numerusform><numerusform>%n connexions actives au réseau NulleX</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Gpu address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille Gpu n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid NulleX address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille NulleX n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Gpu can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application Gpu ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
+        <source>A fatal error occurred. NulleX can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application NulleX ne peut plus être s&apos;exécuter de façon correcte et doit se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Gpu address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Gpu valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid NulleX address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse NulleX valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Gpu-Qt</source>
-        <translation>Gpu-Qt</translation>
+        <source>NulleX-Qt</source>
+        <translation>NulleX-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Gpu after logging in to the system.</source>
-        <translation>Démarrage automatique du client Gpu lors de la connexion au système</translation>
+        <source>Automatically start NulleX after logging in to the system.</source>
+        <translation>Démarrage automatique du client NulleX lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Gpu on system login</source>
-        <translation>&amp;Démarrage du client Gpu à la connexion au système</translation>
+        <source>&amp;Start NulleX on system login</source>
+        <translation>&amp;Démarrage du client NulleX à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Gpu client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouverture automatique du port client de Gpu sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the NulleX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouverture automatique du port client de NulleX sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Gpu network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau Gpu à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the NulleX network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau NulleX à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Gpu.</source>
-        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application Gpu</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting NulleX.</source>
+        <translation>La langue d&apos;interface de de l&apos;utilisateur peut être définie ici. Ces modification seront effectives après redémarrage de l&apos;application NulleX</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Gpu addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses Gpu au sein de la liste de transactions</translation>
+        <source>Whether to show NulleX addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses NulleX au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Gpu.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client Gpu</translation>
+        <source>This setting will take effect after restarting NulleX.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client NulleX</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Gpu network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Gpu mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the NulleX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau NulleX mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Gpu-Qt help message to get a list with possible Gpu command-line options.</source>
-        <translation>Afficher le message d&apos;aide Gpu-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Gpu</translation>
+        <source>Show the NulleX-Qt help message to get a list with possible NulleX command-line options.</source>
+        <translation>Afficher le message d&apos;aide NulleX-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande NulleX</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="-104"/>
-        <source>Gpu - Debug window</source>
-        <translation>Gpu - Fenêtre de déboggage</translation>
+        <source>NulleX - Debug window</source>
+        <translation>NulleX - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Gpu Core</source>
-        <translation>Gpu Core</translation>
+        <source>NulleX Core</source>
+        <translation>NulleX Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Gpu debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug Gpu au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the NulleX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug NulleX au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Gpu RPC console.</source>
-        <translation>Bienvenue sur la console Gpu RPC.</translation>
+        <source>Welcome to the NulleX RPC console.</source>
+        <translation>Bienvenue sur la console NulleX RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Gpu (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse NulleX (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Gpu address</source>
-        <translation>AVERTISSEMENT: Adresse Gpu Invalide</translation>
+        <source>WARNING: Invalid NulleX address</source>
+        <translation>AVERTISSEMENT: Adresse NulleX Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMET: Adresse Gpu Invalide</translation>
+        <translation>AVERTISSEMET: Adresse NulleX Invalide</translation>
     </message>
 </context>
 <context>
@@ -1930,8 +1930,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Gpu (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse NulleX (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1955,7 +1955,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Gpu (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse NulleX (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Gpu address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Gpu</translation>
+        <source>Sign the message to prove you own this NulleX address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse NulleX</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Gpu address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Gpu spécifique.</translation>
+        <source>Verify the message to ensure it was signed with the specified NulleX address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse NulleX spécifique.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Gpu address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Gpu (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a NulleX address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse NulleX (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Gpu signature</source>
-        <translation>Entrer une signature Gpu</translation>
+        <source>Enter NulleX signature</source>
+        <translation>Entrer une signature NulleX</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Gpu version</source>
-        <translation>Version Gpu</translation>
+        <source>NulleX version</source>
+        <translation>Version NulleX</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gpud</source>
-        <translation>Envoyer commande à -server ou gpud</translation>
+        <source>Send command to -server or NulleXd</source>
+        <translation>Envoyer commande à -server ou NulleXd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gpu.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: gpu.conf)</translation>
+        <source>Specify configuration file (default: NulleX.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: NulleX.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gpud.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: gpud.pid)
+        <source>Specify pid file (default: NulleXd.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: NulleXd.pid)
 </translation>
     </message>
     <message>
@@ -2801,8 +2801,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Gpu will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Gpu ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong NulleX will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. NulleX ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gpurpc
+rpcuser=Nullexrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Gpu Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;NulleX Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=gpurpc
+rpcuser=Nullexrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Gpu&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte NulleX&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Gpu&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Gpu is probably already running.</source>
-        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application Gpu est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  NulleX is probably already running.</source>
+        <translation>Echec lors de la tentative de verrouillage des données du répertoire %s. L&apos;application NulleX est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Gpu</source>
-        <translation>Gpu</translation>
+        <source>NulleX</source>
+        <translation>NulleX</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Gpu&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Gpu</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Gpu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of NulleX</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application NulleX</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Gpu to complete</source>
-        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Gpu</translation>
+        <source>Wallet needed to be rewritten: restart NulleX to complete</source>
+        <translation>le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application NulleX</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Gpu&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Gpu is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application Gpu est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. NulleX is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application NulleX est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

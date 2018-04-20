@@ -352,7 +352,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET / HTTP/1.1\r\n"
                      "Host: checkip.dyndns.org\r\n"
-                     "User-Agent: Gpu\r\n"
+                     "User-Agent: NulleX\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -371,7 +371,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
             pszGet = "GET /simple/ HTTP/1.1\r\n"
                      "Host: www.showmyip.com\r\n"
-                     "User-Agent: Gpu\r\n"
+                     "User-Agent: NulleX\r\n"
                      "Connection: close\r\n"
                      "\r\n";
 
@@ -387,7 +387,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 
 void ThreadGetMyExternalIP(void* parg)
 {
-    RenameThread("gpu-ext-ip");
+    RenameThread("Nullex-ext-ip");
 
     CNetAddr addrLocalHost;
     if (GetMyExternalIP(addrLocalHost))
@@ -701,7 +701,7 @@ void SocketSendData(CNode *pnode)
 
 void ThreadSocketHandler(void* parg)
 {
-    RenameThread("gpu-net");
+    RenameThread("Nullex-net");
 
     try
     {
@@ -995,7 +995,7 @@ void ThreadSocketHandler2(void* parg)
 #ifdef USE_UPNP
 void ThreadMapPort(void* parg)
 {
-    RenameThread("gpu-UPnP");
+    RenameThread("Nullex-UPnP");
 
     try
     {
@@ -1057,7 +1057,7 @@ void ThreadMapPort2(void* parg)
             }
         }
 
-        string strDesc = "Gpu " + FormatFullVersion();
+        string strDesc = "NulleX " + FormatFullVersion();
 #ifndef UPNPDISCOVER_SUCCESS
         r = UPNP_AddPortMapping(urls.controlURL, data.first.servicetype,
                             port.c_str(), port.c_str(), lanaddr, strDesc.c_str(), "TCP", 0);
@@ -1134,14 +1134,17 @@ void MapPort()
 
 
 static const char *strDNSSeed[][2] = {
-    {"GPU Hosted", "node1.gpucoin.market"},
-    {"GPU Hosted", "node2.gpucoin.market"},
-    {"Cryptochat.net", "node3.gpucoin.market"},
+    {"NulleX Hosted", "104.154.166.202"},
+   {"NulleX Hosted", "51.7.67.75"},
+   {"NulleX Hosted", "46.4.37.190"},
+   {"NulleX Hosted", "94.130.51.181"},
+   {"NulleX Hosted", "70.48.31.29"},
+   {"NulleX Hosted", "178.184.3.105"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
 {
-    RenameThread("gpu-dnsseed");
+    RenameThread("Nullex-dnsseed");
 
     try
     {
@@ -1223,7 +1226,7 @@ void ThreadDumpAddress2(void* parg)
 
 void ThreadDumpAddress(void* parg)
 {
-    RenameThread("gpu-adrdump");
+    RenameThread("Nullex-adrdump");
 
     try
     {
@@ -1237,7 +1240,7 @@ void ThreadDumpAddress(void* parg)
 
 void ThreadOpenConnections(void* parg)
 {
-    RenameThread("gpu-opencon");
+    RenameThread("Nullex-opencon");
 
     try
     {
@@ -1393,7 +1396,7 @@ void ThreadOpenConnections2(void* parg)
 
 void ThreadOpenAddedConnections(void* parg)
 {
-    RenameThread("gpu-opencon");
+    RenameThread("Nullex-opencon");
 
     try
     {
@@ -1517,7 +1520,7 @@ bool OpenNetworkConnection(const CAddress& addrConnect, CSemaphoreGrant *grantOu
 
 void ThreadMessageHandler(void* parg)
 {
-    RenameThread("gpu-msghand");
+    RenameThread("Nullex-msghand");
 
     try
     {
@@ -1672,7 +1675,7 @@ bool BindListenPort(const CService &addrBind, string& strError)
     {
         int nErr = WSAGetLastError();
         if (nErr == WSAEADDRINUSE)
-            strError = strprintf(_("Unable to bind to %s on this computer. Gpu is probably already running."), addrBind.ToString().c_str());
+            strError = strprintf(_("Unable to bind to %s on this computer. NulleX is probably already running."), addrBind.ToString().c_str());
         else
             strError = strprintf(_("Unable to bind to %s on this computer (bind returned error %d, %s)"), addrBind.ToString().c_str(), nErr, strerror(nErr));
         printf("%s\n", strError.c_str());
@@ -1753,7 +1756,7 @@ void static Discover()
 void StartNode(void* parg)
 {
     // Make this thread recognisable as the startup thread
-    RenameThread("gpu-start");
+    RenameThread("Nullex-start");
 
     if (semOutbound == NULL) {
         // initialize semaphore
