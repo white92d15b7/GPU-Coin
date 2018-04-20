@@ -1,10 +1,5 @@
+The official Re-Branding of GPU-Coin
 
-
-
-Gpu is a PoS-based cryptocurrency.
-
-Compiling Instructions
-
-** updating soon **
+NulleX - $ NLX
 
 
