@@ -1128,14 +1128,13 @@ void MapPort()
 #else
 void MapPort()
 {
-    // Intentionally left blank.
+    
 }
 #endif
 
-
 static const char *strDNSSeed[][2] = {
-    {"NulleX Hosted", "104.154.166.202"},
-   {"NulleX Hosted", "51.7.67.75"},
+   {"NulleX Hosted", "104.154.166.202"},
+   {"NulleX Hosted", "35.202.104.195 "},
    {"NulleX Hosted", "46.4.37.190"},
    {"NulleX Hosted", "94.130.51.181"},
    {"NulleX Hosted", "70.48.31.29"},
