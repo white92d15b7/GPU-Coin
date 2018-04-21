@@ -2,4 +2,12 @@ The official Re-Branding of GPU-Coin
 
 NulleX - $ NLX
 
+Mega Download links
+
+Bootstrap - https://mega.nz/#!Jlt0QIiD!ophl81RPHWAVXs-uJXu1dJQTeNIt-jmPp_Sm3MBIaQ4
+
+Mac Wallet - Old Version (still works) https://mega.nz/#!Jlt0QIiD!ophl81RPHWAVXs-uJXu1dJQTeNIt-jmPp_Sm3MBIaQ4
+
+Win Wallet - NulleX - https://mega.nz/#!AkdmARRZ!sQ3h0Xsa5nwUdB_FWho12k8GCAAl97iM29wmsNIMtXM
+
 
