@@ -16,6 +16,7 @@ Linux Daemon
 git clone https://github.com/white92d15b7/GPU-Coin.git
 
 cd GPU-Coin
+
 cd src/leveldb
 
 sudo make clean
